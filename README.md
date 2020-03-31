@@ -6,4 +6,4 @@ If you run debian or ubuntu, SUMO is part of the regular distribution and can be
 
 sudo apt-get install sumo sumo-tools sumo-doc
 
-![](scenario.gif)
+![](Img/scenario.gif)
