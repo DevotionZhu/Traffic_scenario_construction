@@ -1,0 +1,27 @@
+    <nodes>   
+    <node id="1168066105" type="traffic_light"/>   
+    <node id="1182677910" type="traffic_light"/>   
+    <node id="3176514547" type="traffic_light"/>   
+    <node id="3230281995" type="traffic_light"/>   
+    <node id="3391012766" type="traffic_light"/>   
+    <node id="3391012768" type="traffic_light"/>   
+    <node id="3391012769" type="traffic_light"/>   
+    <node id="3391012770" type="traffic_light"/>   
+    <node id="3391012773" type="traffic_light"/>   
+    <node id="3391012775" type="traffic_light"/>   
+    <node id="3391012777" type="traffic_light"/>   
+    <node id="3391012779" type="traffic_light"/>   
+    <node id="3391012780" type="traffic_light"/>
+    <node id="3391012790" type="traffic_light"/>
+    <node id="3391012791" type="traffic_light"/>
+    <node id="3391013593" type="traffic_light"/>
+    <node id="3391013594" type="traffic_light"/>
+    <node id="3391013595" type="traffic_light"/>  
+    <node id="3391013596" type="traffic_light"/>
+    <node id="3391013597" type="traffic_light"/>  
+    <node id="3392182676" type="traffic_light"/>
+    <node id="3696264070" type="traffic_light"/>  
+    <node id="3696264071" type="traffic_light"/>
+    <node id="3696283364" type="traffic_light"/> 
+    <node id="3696283365" type="traffic_light"/>         
+    </nodes> 

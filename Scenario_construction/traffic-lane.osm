@@ -1,0 +1,1142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='308473172' timestamp='2014-12-11T19:08:00Z' uid='169827' user='hlaw' visible='true' version='12' changeset='27407337' lat='22.3150027' lon='114.1685193' />
+  <node id='308473173' timestamp='2014-12-11T19:08:00Z' uid='169827' user='hlaw' visible='true' version='17' changeset='27407337' lat='22.3150855' lon='114.1689792' />
+  <node id='308473175' timestamp='2014-12-11T19:08:00Z' uid='169827' user='hlaw' visible='true' version='12' changeset='27407337' lat='22.3151909' lon='114.1695566' />
+  <node id='308473177' timestamp='2011-02-25T19:05:47Z' uid='169827' user='hlaw' visible='true' version='9' changeset='7393262' lat='22.3135297' lon='114.1688181' />
+  <node id='308473178' timestamp='2011-02-25T19:03:58Z' uid='169827' user='hlaw' visible='true' version='12' changeset='7393262' lat='22.3136107' lon='114.1692761' />
+  <node id='308473179' timestamp='2011-03-02T18:54:11Z' uid='169827' user='hlaw' visible='true' version='10' changeset='7437607' lat='22.3137144' lon='114.169869' />
+  <node id='308473180' timestamp='2011-03-02T18:54:08Z' uid='169827' user='hlaw' visible='true' version='17' changeset='7437607' lat='22.3126627' lon='114.1694877'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='308473182' timestamp='2014-12-11T19:08:00Z' uid='169827' user='hlaw' visible='true' version='10' changeset='27407337' lat='22.3171535' lon='114.1680697' />
+  <node id='308473183' timestamp='2014-12-11T19:08:00Z' uid='169827' user='hlaw' visible='true' version='15' changeset='27407337' lat='22.317239' lon='114.1685341' />
+  <node id='308473185' timestamp='2014-12-11T19:08:00Z' uid='169827' user='hlaw' visible='true' version='11' changeset='27407337' lat='22.3173386' lon='114.1690949' />
+  <node id='308473189' timestamp='2014-12-11T19:08:00Z' uid='169827' user='hlaw' visible='true' version='17' changeset='27407337' lat='22.3188477' lon='114.1672226' />
+  <node id='308473190' timestamp='2015-02-06T19:57:08Z' uid='169827' user='hlaw' visible='true' version='17' changeset='28659816' lat='22.3189357' lon='114.1676972' />
+  <node id='308473191' timestamp='2014-12-11T19:08:00Z' uid='169827' user='hlaw' visible='true' version='18' changeset='27407337' lat='22.3190228' lon='114.1681667' />
+  <node id='308473192' timestamp='2014-12-11T19:08:00Z' uid='169827' user='hlaw' visible='true' version='15' changeset='27407337' lat='22.319125' lon='114.1687328' />
+  <node id='308473193' timestamp='2015-03-09T14:17:31Z' uid='1870014' user='小智智' visible='true' version='15' changeset='29363194' lat='22.3194711' lon='114.1699801'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='308473195' timestamp='2014-12-11T19:08:00Z' uid='169827' user='hlaw' visible='true' version='15' changeset='27407337' lat='22.3195269' lon='114.1705693' />
+  <node id='308473419' timestamp='2015-11-05T07:19:50Z' uid='2175748' user='freesin' visible='true' version='18' changeset='35095637' lat='22.3152981' lon='114.1702529' />
+  <node id='308473422' timestamp='2014-12-11T19:08:00Z' uid='169827' user='hlaw' visible='true' version='16' changeset='27407337' lat='22.3174542' lon='114.1698109' />
+  <node id='308473423' timestamp='2014-12-11T19:08:00Z' uid='169827' user='hlaw' visible='true' version='18' changeset='27407337' lat='22.3182966' lon='114.1696366' />
+  <node id='308473424' timestamp='2015-03-09T14:10:37Z' uid='1870014' user='小智智' visible='true' version='22' changeset='29362107' lat='22.3192526' lon='114.1694399' />
+  <node id='308473425' timestamp='2014-12-11T19:08:00Z' uid='169827' user='hlaw' visible='true' version='12' changeset='27407337' lat='22.3209688' lon='114.1690817'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='308473539' timestamp='2011-02-25T19:05:47Z' uid='169827' user='hlaw' visible='true' version='10' changeset='7393262' lat='22.3204211' lon='114.1669072' />
+  <node id='331269944' timestamp='2015-03-09T14:10:38Z' uid='1870014' user='小智智' visible='true' version='22' changeset='29362107' lat='22.3223171' lon='114.1688115' />
+  <node id='332242579' timestamp='2011-02-28T12:11:52Z' uid='169827' user='hlaw' visible='true' version='14' changeset='7419947' lat='22.3231772' lon='114.1673312' />
+  <node id='332243003' timestamp='2014-12-11T19:08:02Z' uid='169827' user='hlaw' visible='true' version='21' changeset='27407337' lat='22.3186618' lon='114.1662369' />
+  <node id='332251015' timestamp='2015-02-06T19:57:08Z' uid='169827' user='hlaw' visible='true' version='23' changeset='28659816' lat='22.3210856' lon='114.171326' />
+  <node id='332251254' timestamp='2013-07-17T05:16:05Z' uid='1647837' user='hokleung2002' visible='true' version='12' changeset='16982453' lat='22.3217559' lon='114.1676122' />
+  <node id='332251255' timestamp='2011-02-25T19:05:52Z' uid='169827' user='hlaw' visible='true' version='13' changeset='7393262' lat='22.3219692' lon='114.1688925' />
+  <node id='332251373' timestamp='2011-02-25T19:05:46Z' uid='169827' user='hlaw' visible='true' version='10' changeset='7393262' lat='22.3203331' lon='114.1669327' />
+  <node id='332251374' timestamp='2015-03-09T14:10:38Z' uid='1870014' user='小智智' visible='true' version='15' changeset='29362107' lat='22.3205651' lon='114.1678475' />
+  <node id='332251375' timestamp='2015-03-09T14:10:38Z' uid='1870014' user='小智智' visible='true' version='16' changeset='29362107' lat='22.3207697' lon='114.1691261' />
+  <node id='332251376' timestamp='2014-12-11T19:08:03Z' uid='169827' user='hlaw' visible='true' version='10' changeset='27407337' lat='22.3209045' lon='114.1696706' />
+  <node id='332251377' timestamp='2014-12-11T19:08:03Z' uid='169827' user='hlaw' visible='true' version='9' changeset='27407337' lat='22.3210033' lon='114.1702231' />
+  <node id='332251378' timestamp='2014-12-11T19:08:03Z' uid='169827' user='hlaw' visible='true' version='9' changeset='27407337' lat='22.3211048' lon='114.1707909' />
+  <node id='332251484' timestamp='2013-07-17T05:16:05Z' uid='1647837' user='hokleung2002' visible='true' version='11' changeset='16982453' lat='22.3218518' lon='114.1681777' />
+  <node id='332251500' timestamp='2014-12-11T19:08:03Z' uid='169827' user='hlaw' visible='true' version='9' changeset='27407337' lat='22.3206331' lon='114.1685105' />
+  <node id='332251605' timestamp='2014-12-11T19:08:03Z' uid='169827' user='hlaw' visible='true' version='10' changeset='27407337' lat='22.32048' lon='114.1673721' />
+  <node id='332251664' timestamp='2011-02-25T19:05:05Z' uid='169827' user='hlaw' visible='true' version='5' changeset='7393262' lat='22.3203074' lon='114.1667649' />
+  <node id='332251667' timestamp='2014-12-11T19:08:03Z' uid='169827' user='hlaw' visible='true' version='14' changeset='27407337' lat='22.3187686' lon='114.1667923' />
+  <node id='332251828' timestamp='2014-12-11T19:08:03Z' uid='169827' user='hlaw' visible='true' version='7' changeset='27407337' lat='22.31799' lon='114.1678938' />
+  <node id='332253311' timestamp='2014-12-11T19:08:03Z' uid='169827' user='hlaw' visible='true' version='8' changeset='27407337' lat='22.3161977' lon='114.1682695' />
+  <node id='332253312' timestamp='2014-12-11T19:08:03Z' uid='169827' user='hlaw' visible='true' version='10' changeset='27407337' lat='22.316279' lon='114.1687316' />
+  <node id='332253313' timestamp='2014-12-11T19:08:03Z' uid='169827' user='hlaw' visible='true' version='9' changeset='27407337' lat='22.3163794' lon='114.1693011' />
+  <node id='332253631' timestamp='2014-12-11T19:08:03Z' uid='169827' user='hlaw' visible='true' version='7' changeset='27407337' lat='22.3157795' lon='114.1688351' />
+  <node id='412685610' timestamp='2011-02-25T19:04:10Z' uid='169827' user='hlaw' visible='true' version='3' changeset='7393262' lat='22.3227102' lon='114.1674152' />
+  <node id='804107237' timestamp='2014-12-11T19:08:07Z' uid='169827' user='hlaw' visible='true' version='6' changeset='27407337' lat='22.3196401' lon='114.1716857' />
+  <node id='804107241' timestamp='2014-12-11T19:08:07Z' uid='169827' user='hlaw' visible='true' version='4' changeset='27407337' lat='22.3195337' lon='114.1711025' />
+  <node id='804107253' timestamp='2014-12-11T19:08:07Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3194332' lon='114.1705518' />
+  <node id='804107264' timestamp='2015-03-09T14:17:31Z' uid='1870014' user='小智智' visible='true' version='5' changeset='29363194' lat='22.3193312' lon='114.1699926' />
+  <node id='991294876' timestamp='2014-12-11T19:08:08Z' uid='169827' user='hlaw' visible='true' version='4' changeset='27407337' lat='22.3158813' lon='114.1694082' />
+  <node id='1151084798' timestamp='2014-12-11T19:07:39Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3204737' lon='114.1690731'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='1151084800' timestamp='2014-12-11T19:07:39Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3193709' lon='114.1702101'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='1151084802' timestamp='2011-02-25T19:03:41Z' uid='169827' user='hlaw' visible='true' version='2' changeset='7393262' lat='22.3129521' lon='114.1706239'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1151084818' timestamp='2014-12-11T19:07:40Z' uid='169827' user='hlaw' visible='true' version='4' changeset='27407337' lat='22.3174413' lon='114.1696956' />
+  <node id='1151084823' timestamp='2011-02-25T19:04:06Z' uid='169827' user='hlaw' visible='true' version='2' changeset='7393262' lat='22.3193347' lon='114.1698789' />
+  <node id='1151084825' timestamp='2011-02-25T19:04:14Z' uid='169827' user='hlaw' visible='true' version='2' changeset='7393262' lat='22.314451' lon='114.1703198' />
+  <node id='1151084837' timestamp='2011-03-02T18:54:07Z' uid='169827' user='hlaw' visible='true' version='4' changeset='7437607' lat='22.3127689' lon='114.1694639'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1151084838' timestamp='2014-12-11T19:07:40Z' uid='169827' user='hlaw' visible='true' version='2' changeset='27407337' lat='22.3195283' lon='114.1692698' />
+  <node id='1151084845' timestamp='2011-02-25T19:03:59Z' uid='169827' user='hlaw' visible='true' version='3' changeset='7393262' lat='22.3142561' lon='114.1691336' />
+  <node id='1151084854' timestamp='2011-02-25T19:03:51Z' uid='169827' user='hlaw' visible='true' version='2' changeset='7393262' lat='22.3194065' lon='114.1699518' />
+  <node id='1151084860' timestamp='2015-03-09T14:10:37Z' uid='1870014' user='小智智' visible='true' version='7' changeset='29362107' lat='22.3192335' lon='114.1693309' />
+  <node id='1151084864' timestamp='2011-02-25T19:03:40Z' uid='169827' user='hlaw' visible='true' version='3' changeset='7393262' lat='22.3143572' lon='114.1697344' />
+  <node id='1151084867' timestamp='2014-12-11T19:07:40Z' uid='169827' user='hlaw' visible='true' version='2' changeset='27407337' lat='22.3199346' lon='114.1691837' />
+  <node id='1151084879' timestamp='2011-02-25T19:04:01Z' uid='169827' user='hlaw' visible='true' version='2' changeset='7393262' lat='22.3219536' lon='114.1687783' />
+  <node id='1151084890' timestamp='2011-02-25T19:04:03Z' uid='169827' user='hlaw' visible='true' version='3' changeset='7393262' lat='22.31418' lon='114.1686955' />
+  <node id='1151084893' timestamp='2011-02-13T15:46:25Z' uid='47419' user='ploppy' visible='true' version='1' changeset='7276729' lat='22.3194403' lon='114.1700669' />
+  <node id='1151084907' timestamp='2014-12-11T19:07:40Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3191061' lon='114.1693566'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='1151084911' timestamp='2011-03-02T18:54:09Z' uid='169827' user='hlaw' visible='true' version='4' changeset='7437607' lat='22.3126977' lon='114.1689917'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1151084921' timestamp='2014-12-11T19:07:40Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.318273' lon='114.1695271' />
+  <node id='1151084922' timestamp='2014-12-11T19:07:40Z' uid='169827' user='hlaw' visible='true' version='2' changeset='27407337' lat='22.3208941' lon='114.1689857'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='1151084923' timestamp='2011-03-02T18:54:06Z' uid='169827' user='hlaw' visible='true' version='3' changeset='7437607' lat='22.3128578' lon='114.1700475' />
+  <node id='1151084930' timestamp='2014-12-11T19:07:40Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3159859' lon='114.169994' />
+  <node id='1151084932' timestamp='2011-03-02T18:54:13Z' uid='169827' user='hlaw' visible='true' version='4' changeset='7437607' lat='22.3127282' lon='114.1692238' />
+  <node id='1151084934' timestamp='2014-12-11T19:07:40Z' uid='169827' user='hlaw' visible='true' version='4' changeset='27407337' lat='22.315289' lon='114.1701389' />
+  <node id='1151084936' timestamp='2015-03-09T14:10:37Z' uid='1870014' user='小智智' visible='true' version='6' changeset='29362107' lat='22.3207228' lon='114.1690212' />
+  <node id='1167986936' timestamp='2014-12-11T19:07:40Z' uid='169827' user='hlaw' visible='true' version='4' changeset='27407337' lat='22.3206655' lon='114.1684086' />
+  <node id='1167986939' timestamp='2014-12-11T19:07:40Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.316508' lon='114.1700043' />
+  <node id='1167986941' timestamp='2015-02-06T19:58:20Z' uid='169827' user='hlaw' visible='true' version='6' changeset='28659816' lat='22.3207982' lon='114.1690056' />
+  <node id='1167986943' timestamp='2014-12-11T19:07:40Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3207045' lon='114.1684989' />
+  <node id='1167986944' timestamp='2014-12-11T19:07:40Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3164867' lon='114.1698924' />
+  <node id='1167986947' timestamp='2015-02-06T19:57:08Z' uid='169827' user='hlaw' visible='true' version='5' changeset='28659816' lat='22.3206441' lon='114.1690376' />
+  <node id='1168066094' timestamp='2014-12-11T19:07:40Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3189316' lon='114.1672047' />
+  <node id='1168066101' timestamp='2011-02-25T19:03:35Z' uid='169827' user='hlaw' visible='true' version='2' changeset='7393262' lat='22.3203424' lon='114.1665042' />
+  <node id='1168066105' timestamp='2015-02-07T13:08:19Z' uid='1870014' user='小智智' visible='true' version='3' changeset='28672269' lat='22.3204742' lon='114.167233'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1168066107' timestamp='2011-02-25T19:04:15Z' uid='169827' user='hlaw' visible='true' version='2' changeset='7393262' lat='22.3202254' lon='114.1663056' />
+  <node id='1168066108' timestamp='2014-12-11T19:07:40Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3187001' lon='114.1664471' />
+  <node id='1168066118' timestamp='2014-12-11T19:07:41Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3187566' lon='114.1662168' />
+  <node id='1168066121' timestamp='2011-02-25T19:03:30Z' uid='169827' user='hlaw' visible='true' version='2' changeset='7393262' lat='22.3188537' lon='114.1667753' />
+  <node id='1168183627' timestamp='2014-12-11T19:07:41Z' uid='169827' user='hlaw' visible='true' version='4' changeset='27407337' lat='22.3206107' lon='114.1681023' />
+  <node id='1168183637' timestamp='2015-02-06T19:57:08Z' uid='169827' user='hlaw' visible='true' version='6' changeset='28659816' lat='22.3211977' lon='114.1713031' />
+  <node id='1168183665' timestamp='2014-12-11T19:07:41Z' uid='169827' user='hlaw' visible='true' version='2' changeset='27407337' lat='22.3198895' lon='114.1674986' />
+  <node id='1168183682' timestamp='2014-12-11T19:07:41Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3207944' lon='114.1696944' />
+  <node id='1168183687' timestamp='2014-12-11T19:07:41Z' uid='169827' user='hlaw' visible='true' version='2' changeset='27407337' lat='22.3201827' lon='114.1691329' />
+  <node id='1168183693' timestamp='2014-12-11T19:07:41Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3210002' lon='114.1708181' />
+  <node id='1168183695' timestamp='2014-12-11T19:07:41Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3202047' lon='114.1692427' />
+  <node id='1168183728' timestamp='2014-12-11T19:07:41Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3190659' lon='114.1684136' />
+  <node id='1168183731' timestamp='2014-12-11T19:07:41Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.320855' lon='114.1696118' />
+  <node id='1168183735' timestamp='2014-12-11T19:07:41Z' uid='169827' user='hlaw' visible='true' version='2' changeset='27407337' lat='22.3200763' lon='114.1685415' />
+  <node id='1168183745' timestamp='2014-12-11T19:07:42Z' uid='169827' user='hlaw' visible='true' version='2' changeset='27407337' lat='22.319974' lon='114.1679701' />
+  <node id='1168183751' timestamp='2014-12-11T19:07:42Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3203048' lon='114.1698001' />
+  <node id='1168183774' timestamp='2014-12-11T19:07:42Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3208958' lon='114.1702472' />
+  <node id='1178971334' timestamp='2011-02-28T12:11:37Z' uid='169827' user='hlaw' visible='true' version='1' changeset='7419947' lat='22.3221423' lon='114.1675324' />
+  <node id='1182677910' timestamp='2015-02-07T13:08:19Z' uid='1870014' user='小智智' visible='true' version='2' changeset='28672269' lat='22.320398' lon='114.1672479'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1182950301' timestamp='2014-12-11T19:07:44Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3176993' lon='114.1684401' />
+  <node id='1182950316' timestamp='2014-12-11T19:07:45Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3180458' lon='114.1683645' />
+  <node id='1182950317' timestamp='2014-12-11T19:07:45Z' uid='169827' user='hlaw' visible='true' version='2' changeset='27407337' lat='22.3176145' lon='114.1679748' />
+  <node id='1182950321' timestamp='2014-12-11T19:07:45Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3187149' lon='114.1682266' />
+  <node id='1442088606' timestamp='2014-12-11T19:07:48Z' uid='169827' user='hlaw' visible='true' version='2' changeset='27407337' lat='22.3207479' lon='114.168731' />
+  <node id='1636685665' timestamp='2014-12-11T19:07:49Z' uid='169827' user='hlaw' visible='true' version='2' changeset='27407337' lat='22.3181637' lon='114.1689132'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='2908468223' timestamp='2014-12-11T19:08:00Z' uid='169827' user='hlaw' visible='true' version='2' changeset='27407337' lat='22.3194529' lon='114.1701837'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3176514504' timestamp='2014-11-09T11:39:21Z' uid='169827' user='hlaw' visible='true' version='1' changeset='26660750' lat='22.3145383' lon='114.1703013'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3176514507' timestamp='2014-12-11T19:08:01Z' uid='169827' user='hlaw' visible='true' version='2' changeset='27407337' lat='22.3153812' lon='114.1701199'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3176514508' timestamp='2014-12-11T19:08:01Z' uid='169827' user='hlaw' visible='true' version='2' changeset='27407337' lat='22.3154002' lon='114.170233'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3176514511' timestamp='2014-12-11T19:08:01Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3154265' lon='114.1701103' />
+  <node id='3176514513' timestamp='2014-12-11T19:08:01Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3154457' lon='114.170224' />
+  <node id='3176514517' timestamp='2014-12-11T19:08:01Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3167114' lon='114.1698454' />
+  <node id='3176514519' timestamp='2016-08-04T16:54:32Z' uid='1870014' user='小智智' visible='true' version='4' changeset='41242367' lat='22.3167361' lon='114.1699583'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='3176514522' timestamp='2014-12-11T19:08:01Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3170442' lon='114.1697766' />
+  <node id='3176514538' timestamp='2014-12-11T19:08:01Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3175638' lon='114.1697866' />
+  <node id='3176514544' timestamp='2014-12-11T19:08:01Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3181872' lon='114.1696604' />
+  <node id='3176514547' timestamp='2015-03-09T14:10:38Z' uid='1870014' user='小智智' visible='true' version='4' changeset='29362107' lat='22.3190364' lon='114.1693707'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3176514549' timestamp='2014-11-26T11:32:55Z' uid='169827' user='hlaw' visible='true' version='2' changeset='27042643' lat='22.3190567' lon='114.1694827' />
+  <node id='3176514554' timestamp='2014-11-09T11:39:23Z' uid='169827' user='hlaw' visible='true' version='1' changeset='26660750' lat='22.3191256' lon='114.1694676'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3176514560' timestamp='2014-12-11T19:08:01Z' uid='169827' user='hlaw' visible='true' version='3' changeset='27407337' lat='22.3192536' lon='114.1687088'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3176517763' timestamp='2014-11-09T11:39:23Z' uid='169827' user='hlaw' visible='true' version='1' changeset='26660750' lat='22.3192191' lon='114.169254'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3176517765' timestamp='2014-11-09T11:39:23Z' uid='169827' user='hlaw' visible='true' version='1' changeset='26660750' lat='22.3192725' lon='114.1695465'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230273993' timestamp='2014-12-11T19:02:17Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.314895' lon='114.1685405'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230274023' timestamp='2014-12-11T19:02:18Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3149645' lon='114.1690034'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230274164' timestamp='2014-12-11T19:02:19Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3150608' lon='114.1695846'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230274170' timestamp='2014-12-11T19:02:19Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3150778' lon='114.1685036'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230274239' timestamp='2014-12-11T19:02:21Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3151551' lon='114.1689644'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230274366' timestamp='2014-12-11T19:02:23Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3152845' lon='114.1695365'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230275757' timestamp='2014-12-11T19:02:45Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3161097' lon='114.1682879'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230275924' timestamp='2014-12-11T19:02:46Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3161806' lon='114.168752'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230276002' timestamp='2014-12-11T19:02:48Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3162953' lon='114.1682491'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230276005' timestamp='2014-12-11T19:02:48Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3162995' lon='114.1693183'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230276044' timestamp='2014-12-11T19:02:49Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3163582' lon='114.1687167'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230276216' timestamp='2014-12-11T19:02:50Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3164517' lon='114.1692855'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230277086' timestamp='2014-12-11T19:03:05Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3170551' lon='114.1680903'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230277355' timestamp='2014-12-11T19:03:08Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3171365' lon='114.1685554'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230277492' timestamp='2014-12-11T19:03:10Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3172271' lon='114.1680543'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230277530' timestamp='2014-12-11T19:03:11Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3172608' lon='114.1691116'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230277601' timestamp='2014-12-11T19:03:12Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3173143' lon='114.1685187'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230277719' timestamp='2014-12-11T19:03:15Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3174195' lon='114.1690775'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230277763' timestamp='2014-12-11T19:03:16Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3174475' lon='114.1680096' />
+  <node id='3230280697' timestamp='2014-12-11T19:03:59Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.318808' lon='114.1677239'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230280829' timestamp='2014-12-11T19:04:03Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3188992' lon='114.1681912'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230280848' timestamp='2014-12-11T19:04:04Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3189148' lon='114.1675843'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230280913' timestamp='2015-03-09T14:10:38Z' uid='1870014' user='小智智' visible='true' version='2' changeset='29362107' lat='22.318949' lon='114.1677748'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230280949' timestamp='2014-12-11T19:04:06Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3189844' lon='114.1687388'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230280962' timestamp='2014-12-11T19:04:06Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3189965' lon='114.1675625'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230280976' timestamp='2014-12-11T19:04:07Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3190047' lon='114.1680687'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230280999' timestamp='2015-02-06T19:58:20Z' uid='169827' user='hlaw' visible='true' version='3' changeset='28659816' lat='22.3190178' lon='114.16768' />
+  <node id='3230281016' timestamp='2014-12-11T19:04:08Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3190307' lon='114.1687137' />
+  <node id='3230281031' timestamp='2015-03-09T14:10:38Z' uid='1870014' user='小智智' visible='true' version='2' changeset='29362107' lat='22.3190304' lon='114.1682079'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230281049' timestamp='2014-12-11T19:04:08Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3190538' lon='114.1686894' />
+  <node id='3230281088' timestamp='2014-12-11T19:04:09Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3190843' lon='114.1686214' />
+  <node id='3230281110' timestamp='2014-12-11T19:04:10Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3190983' lon='114.1685845' />
+  <node id='3230281127' timestamp='2014-12-11T19:04:10Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3191095' lon='114.1676608'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230281280' timestamp='2015-03-09T14:10:38Z' uid='1870014' user='小智智' visible='true' version='2' changeset='29362107' lat='22.3191043' lon='114.1681479'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230281995' timestamp='2015-03-09T14:17:31Z' uid='1870014' user='小智智' visible='true' version='2' changeset='29363194' lat='22.3195089' lon='114.1699719'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3230282225' timestamp='2014-12-11T19:04:26Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.319611' lon='114.1715265'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283001' timestamp='2015-03-09T14:10:38Z' uid='1870014' user='小智智' visible='true' version='2' changeset='29362107' lat='22.3200049' lon='114.1679636'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283159' timestamp='2015-02-06T19:58:20Z' uid='169827' user='hlaw' visible='true' version='3' changeset='28659816' lat='22.3201175' lon='114.1685332'>
+    <tag k='crossing_ref' v='zebra' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283234' timestamp='2014-12-11T19:04:43Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3202034' lon='114.169822'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283345' timestamp='2014-12-11T19:04:45Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3202957' lon='114.1697495'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283349' timestamp='2014-12-11T19:04:45Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3203003' lon='114.1674106'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283538' timestamp='2014-12-11T19:04:47Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3203707' lon='114.1697859'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283560' timestamp='2014-12-11T19:04:48Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3203964' lon='114.1678816'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283866' timestamp='2014-12-11T19:04:50Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3205149' lon='114.1684524'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283880' timestamp='2014-12-11T19:04:51Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3205442' lon='114.1677308'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283888' timestamp='2014-12-11T19:04:51Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3205518' lon='114.1691708'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283899' timestamp='2014-12-11T19:04:51Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3205779' lon='114.1679194'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283901' timestamp='2014-12-11T19:04:51Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3205806' lon='114.1684628' />
+  <node id='3230283916' timestamp='2014-12-11T19:04:51Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3206598' lon='114.1683584'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283922' timestamp='2015-02-06T19:58:20Z' uid='169827' user='hlaw' visible='true' version='3' changeset='28659816' lat='22.3207044' lon='114.1689081'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283936' timestamp='2014-12-11T19:04:52Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3207689' lon='114.1683869'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283941' timestamp='2014-12-11T19:04:52Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3207783' lon='114.1688938'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283950' timestamp='2014-12-11T19:04:52Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3209191' lon='114.1703743'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283954' timestamp='2015-02-06T19:58:21Z' uid='169827' user='hlaw' visible='true' version='3' changeset='28659816' lat='22.3210698' lon='114.1712351'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3230283958' timestamp='2014-12-11T19:04:52Z' uid='169827' user='hlaw' visible='true' version='1' changeset='27407337' lat='22.3217384' lon='114.1681996'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3334802085' timestamp='2015-02-06T19:57:07Z' uid='169827' user='hlaw' visible='true' version='1' changeset='28659816' lat='22.3211816' lon='114.1712145'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3336155581' timestamp='2015-02-07T13:08:17Z' uid='1870014' user='小智智' visible='true' version='1' changeset='28672269' lat='22.3202865' lon='114.1674136'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3336155582' timestamp='2015-02-07T13:08:18Z' uid='1870014' user='小智智' visible='true' version='1' changeset='28672269' lat='22.3204195' lon='114.1672805'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3336155583' timestamp='2015-02-07T13:08:18Z' uid='1870014' user='小智智' visible='true' version='1' changeset='28672269' lat='22.3204758' lon='114.1672704'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3391012764' timestamp='2015-03-09T14:10:28Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3186725' lon='114.1662959'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3391012766' timestamp='2015-03-09T14:10:28Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3187769' lon='114.1677304'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3391012768' timestamp='2015-03-09T14:10:28Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.318956' lon='114.1687448'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3391012769' timestamp='2015-03-09T14:10:28Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3189605' lon='114.1678277'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3391012770' timestamp='2015-03-09T14:10:28Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3189892' lon='114.1675223'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3391012771' timestamp='2015-03-09T14:10:28Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3190125' lon='114.1676508'>
+    <tag k='highway' v='give_way' />
+  </node>
+  <node id='3391012773' timestamp='2015-03-09T14:10:28Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3190367' lon='114.1682462'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3391012775' timestamp='2015-03-09T14:10:28Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3191244' lon='114.1681438'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3391012776' timestamp='2015-03-09T14:10:28Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.319138' lon='114.1688047'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3391012777' timestamp='2015-03-09T14:10:28Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3191409' lon='114.168821'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3391012778' timestamp='2015-03-09T14:10:28Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3191563' lon='114.168727'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3391012779' timestamp='2015-03-09T14:10:28Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3192809' lon='114.1695915'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3391012780' timestamp='2015-03-09T14:10:28Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3193591' lon='114.1694178'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3391012790' timestamp='2015-03-09T14:10:29Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3204492' lon='114.1690781'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3391012791' timestamp='2015-03-09T14:10:29Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3205399' lon='114.1677068'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3391012792' timestamp='2015-03-09T14:10:29Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3206558' lon='114.1678296'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3391013593' timestamp='2015-03-09T14:10:29Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3206845' lon='114.1678239'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3391013594' timestamp='2015-03-09T14:10:29Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3207003' lon='114.1688853'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3391013595' timestamp='2015-03-09T14:10:29Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3207739' lon='114.1688705'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3391013596' timestamp='2015-03-09T14:10:29Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3207969' lon='114.1683815'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3391013597' timestamp='2015-03-09T14:10:29Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29362107' lat='22.3210046' lon='114.1690749'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3392182676' timestamp='2015-03-10T08:18:25Z' uid='1870014' user='小智智' visible='true' version='1' changeset='29379081' lat='22.3193764' lon='114.1702402'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3691165231' timestamp='2015-08-11T11:11:54Z' uid='3087041' user='geenie' visible='true' version='1' changeset='33263325' lat='22.32112' lon='114.1708749' />
+  <node id='3691165237' timestamp='2015-08-11T11:11:54Z' uid='3087041' user='geenie' visible='true' version='1' changeset='33263325' lat='22.3205531' lon='114.1697465' />
+  <node id='3696264070' timestamp='2015-08-14T04:37:39Z' uid='1870014' user='小智智' visible='true' version='1' changeset='33328542' lat='22.3209296' lon='114.1704318'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3696264071' timestamp='2015-08-14T04:37:39Z' uid='1870014' user='小智智' visible='true' version='1' changeset='33328542' lat='22.321018' lon='114.1703051'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3696264072' timestamp='2015-08-14T04:37:39Z' uid='1870014' user='小智智' visible='true' version='1' changeset='33328542' lat='22.3210261' lon='114.1703505'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3696283364' timestamp='2015-08-14T04:45:36Z' uid='1870014' user='小智智' visible='true' version='1' changeset='33328580' lat='22.3204821' lon='114.1684591'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3696283365' timestamp='2015-08-14T04:45:36Z' uid='1870014' user='小智智' visible='true' version='1' changeset='33328580' lat='22.3206525' lon='114.1683202'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='4085888183' timestamp='2016-03-30T03:57:38Z' uid='1879520' user='freayd' visible='true' version='1' changeset='38157384' lat='22.3202759' lon='114.1665885' />
+  <node id='4335274769' timestamp='2016-08-04T10:15:55Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41233978' lat='22.318809' lon='114.1670121'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4335274771' timestamp='2016-08-04T10:15:55Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41233978' lat='22.3194998' lon='114.170917'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4335274772' timestamp='2016-08-04T10:15:55Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41233978' lat='22.3210882' lon='114.1706977'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4335274773' timestamp='2016-08-04T10:15:55Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41233978' lat='22.3220032' lon='114.1675611'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4335274774' timestamp='2016-08-04T10:15:55Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41233978' lat='22.3222062' lon='114.1675192'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4335274775' timestamp='2016-08-04T10:15:55Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41233978' lat='22.322414' lon='114.1674763'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4335709211' timestamp='2016-08-04T16:54:05Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41242367' lat='22.3198469' lon='114.1693168'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4346833950' timestamp='2016-08-12T06:04:16Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41403165' lat='22.3209883' lon='114.1701391'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4350616088' timestamp='2016-08-15T06:38:07Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41461175' lat='22.3162199' lon='114.1699465'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4350617689' timestamp='2016-08-15T06:38:07Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41461175' lat='22.3184958' lon='114.1694815'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4350650805' timestamp='2016-08-15T07:22:11Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41461799' lat='22.3194982' lon='114.169389'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4353485232' timestamp='2016-08-17T06:23:28Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41505190' lat='22.3150143' lon='114.1701983'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4353485233' timestamp='2016-08-17T06:23:28Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41505190' lat='22.3179068' lon='114.1696013'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4353485234' timestamp='2016-08-17T08:03:28Z' uid='1870014' user='小智智' visible='true' version='2' changeset='41506625' lat='22.3215519' lon='114.1688487'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4353541535' timestamp='2016-08-17T07:33:09Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41506146' lat='22.3199501' lon='114.1698767'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4353561378' timestamp='2016-08-17T08:03:21Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41506625' lat='22.3201885' lon='114.1674346'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4353561379' timestamp='2016-08-17T08:03:21Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41506625' lat='22.3212118' lon='114.1689195'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4353595939' timestamp='2016-08-17T08:36:48Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41507191' lat='22.319399' lon='114.1703644'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4353625290' timestamp='2016-08-17T09:07:56Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41507784' lat='22.3192014' lon='114.1676417'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4355051553' timestamp='2016-08-18T05:48:09Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41526762' lat='22.3194584' lon='114.1706898'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4355051554' timestamp='2016-08-18T05:48:09Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41526762' lat='22.3196223' lon='114.1692499'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4355065428' timestamp='2016-08-18T06:07:58Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41526946' lat='22.3197759' lon='114.1692173'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4355100469' timestamp='2016-08-18T07:10:45Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41527649' lat='22.3199726' lon='114.1691759'>
+    <tag k='bus' v='yes' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <way id='4793007' timestamp='2016-09-16T16:42:03Z' uid='1870014' user='小智智' visible='true' version='51' changeset='42207028'>
+    <nd ref='331269944' />
+    <nd ref='332251255' />
+    <nd ref='3391013597' />
+    <nd ref='308473425' />
+    <nd ref='332251375' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='彌敦道 Nathan Road' />
+    <tag k='name:en' v='Nathan Road' />
+    <tag k='name:zh' v='彌敦道' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='29453971' timestamp='2012-02-17T15:42:42Z' uid='169827' user='hlaw' visible='true' version='7' changeset='10710850'>
+    <nd ref='1151084921' />
+    <nd ref='1636685665' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='name' v='奶路臣街 Nelson Street' />
+    <tag k='name:en' v='Nelson Street' />
+    <tag k='name:zh' v='奶路臣街' />
+  </way>
+  <way id='66348958' timestamp='2016-08-12T14:53:57Z' uid='1870014' user='小智智' visible='true' version='13' changeset='41412225'>
+    <nd ref='308473193' />
+    <nd ref='1151084893' />
+    <nd ref='2908468223' />
+    <nd ref='308473195' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='1' />
+    <tag k='name' v='亞皆老街 Argyle Street' />
+    <tag k='name:en' v='Argyle Street' />
+    <tag k='name:zh' v='亞皆老街' />
+    <tag k='oneway' v='yes' />
+    <tag k='share_taxi' v='no' />
+  </way>
+  <way id='99517996' timestamp='2016-08-04T10:15:59Z' uid='1870014' user='小智智' visible='true' version='8' changeset='41233978'>
+    <nd ref='308473190' />
+    <nd ref='3230280848' />
+    <nd ref='308473189' />
+    <nd ref='4335274769' />
+    <nd ref='332251667' />
+    <nd ref='1168066108' />
+    <nd ref='3391012764' />
+    <nd ref='332243003' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='name' v='亞皆老街 Argyle Street' />
+    <tag k='name:en' v='Argyle Street' />
+    <tag k='name:zh' v='亞皆老街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='101166553' timestamp='2015-03-09T14:10:35Z' uid='1870014' user='小智智' visible='true' version='4' changeset='29362107'>
+    <nd ref='332251484' />
+    <nd ref='3230283958' />
+    <nd ref='3391013596' />
+    <nd ref='3230283936' />
+    <nd ref='1167986936' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='砵蘭街 Portland Street' />
+    <tag k='name:en' v='Portland Street' />
+    <tag k='name:zh' v='砵蘭街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='101166558' timestamp='2016-08-12T06:04:33Z' uid='1870014' user='小智智' visible='true' version='16' changeset='41403165'>
+    <nd ref='1168183731' />
+    <nd ref='332251376' />
+    <nd ref='4346833950' />
+    <nd ref='332251377' />
+    <nd ref='3696264071' />
+    <nd ref='3696264072' />
+    <nd ref='4335274772' />
+    <nd ref='332251378' />
+    <nd ref='3691165231' />
+    <nd ref='3334802085' />
+    <nd ref='1168183637' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='旺角道 Mong Kok Road' />
+    <tag k='name:en' v='Mong Kok Road' />
+    <tag k='name:zh' v='旺角道' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='101166561' timestamp='2016-02-08T14:03:56Z' uid='1870014' user='小智智' visible='true' version='9' changeset='37080266'>
+    <nd ref='1167986936' />
+    <nd ref='1167986943' />
+    <nd ref='1442088606' />
+    <nd ref='3391013595' />
+    <nd ref='3230283941' />
+    <nd ref='1167986941' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='旺角道 Mong Kok Road' />
+    <tag k='name:en' v='Mong Kok Road' />
+    <tag k='name:zh' v='旺角道' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='101176346' timestamp='2016-02-08T14:03:56Z' uid='1870014' user='小智智' visible='true' version='7' changeset='37080266'>
+    <nd ref='1168066107' />
+    <nd ref='1168066101' />
+    <nd ref='308473539' />
+    <nd ref='1168066105' />
+    <nd ref='3336155583' />
+    <nd ref='332251605' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='旺角道 Mong Kok Road' />
+    <tag k='name:en' v='Mong Kok Road' />
+    <tag k='name:zh' v='旺角道' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='101176351' timestamp='2016-09-07T06:09:05Z' uid='1870014' user='小智智' visible='true' version='10' changeset='41971523'>
+    <nd ref='1168066118' />
+    <nd ref='1168066121' />
+    <nd ref='1168066094' />
+    <nd ref='3391012770' />
+    <nd ref='3230280962' />
+    <nd ref='3391012771' />
+    <nd ref='3230280999' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='亞皆老街 Argyle Street' />
+    <tag k='name:en' v='Argyle Street' />
+    <tag k='name:zh' v='亞皆老街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='101183499' timestamp='2016-08-12T14:53:57Z' uid='1870014' user='小智智' visible='true' version='5' changeset='41412225'>
+    <nd ref='1168183695' />
+    <nd ref='3230283345' />
+    <nd ref='1168183751' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='快富街 Fife Street' />
+    <tag k='name:en' v='Fife Street' />
+    <tag k='name:zh' v='快富街' />
+    <tag k='oneway' v='yes' />
+    <tag k='share_taxi' v='no' />
+  </way>
+  <way id='101183518' timestamp='2016-08-12T14:53:58Z' uid='1870014' user='小智智' visible='true' version='6' changeset='41412225'>
+    <nd ref='1168183682' />
+    <nd ref='3691165237' />
+    <nd ref='3230283538' />
+    <nd ref='1168183751' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='西洋菜南街 Sai Yeung Choi Street South' />
+    <tag k='name:en' v='Sai Yeung Choi Street South' />
+    <tag k='name:zh' v='西洋菜南街' />
+    <tag k='oneway' v='yes' />
+    <tag k='share_taxi' v='no' />
+  </way>
+  <way id='101183525' timestamp='2016-02-08T14:03:57Z' uid='1870014' user='小智智' visible='true' version='10' changeset='37080266'>
+    <nd ref='332251015' />
+    <nd ref='3230283954' />
+    <nd ref='1168183693' />
+    <nd ref='3696264070' />
+    <nd ref='3230283950' />
+    <nd ref='1168183774' />
+    <nd ref='1168183682' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='旺角道 Mong Kok Road' />
+    <tag k='name:en' v='Mong Kok Road' />
+    <tag k='name:zh' v='旺角道' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='101183532' timestamp='2016-08-18T05:48:11Z' uid='1870014' user='小智智' visible='true' version='9' changeset='41526762'>
+    <nd ref='804107237' />
+    <nd ref='3230282225' />
+    <nd ref='804107241' />
+    <nd ref='4335274771' />
+    <nd ref='4355051553' />
+    <nd ref='804107253' />
+    <nd ref='4353595939' />
+    <nd ref='3392182676' />
+    <nd ref='1151084800' />
+    <nd ref='804107264' />
+    <nd ref='1151084823' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='name' v='亞皆老街 Argyle Street' />
+    <tag k='name:en' v='Argyle Street' />
+    <tag k='name:zh' v='亞皆老街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='101317729' timestamp='2016-09-10T16:38:26Z' uid='1870014' user='小智智' visible='true' version='6' changeset='42062525'>
+    <nd ref='3230280999' />
+    <nd ref='3230281127' />
+    <nd ref='4353625290' />
+    <nd ref='1168183665' />
+    <nd ref='4353561378' />
+    <nd ref='3336155581' />
+    <nd ref='3230283349' />
+    <nd ref='332251605' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='新填地街 Reclamation Street' />
+    <tag k='name:en' v='Reclamation Street' />
+    <tag k='name:zh' v='新填地街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='102441821' timestamp='2016-09-16T16:41:59Z' uid='1870014' user='小智智' visible='true' version='13' changeset='42207028'>
+    <nd ref='1151084825' />
+    <nd ref='3176514504' />
+    <nd ref='4353485232' />
+    <nd ref='1151084934' />
+    <nd ref='3176514507' />
+    <nd ref='3176514511' />
+    <nd ref='1151084930' />
+    <nd ref='4350616088' />
+    <nd ref='1167986944' />
+    <nd ref='3176514517' />
+    <nd ref='3176514522' />
+    <nd ref='1151084818' />
+    <nd ref='4353485233' />
+    <nd ref='1151084921' />
+    <nd ref='4350617689' />
+    <nd ref='3176514547' />
+    <nd ref='1151084907' />
+    <nd ref='1151084860' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='3' />
+    <tag k='name' v='彌敦道 Nathan Road' />
+    <tag k='name:en' v='Nathan Road' />
+    <tag k='name:zh' v='彌敦道' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='102443799' timestamp='2016-09-10T16:38:25Z' uid='1870014' user='小智智' visible='true' version='10' changeset='42062525'>
+    <nd ref='308473177' />
+    <nd ref='1151084890' />
+    <nd ref='3230273993' />
+    <nd ref='308473172' />
+    <nd ref='3230274170' />
+    <nd ref='3230275757' />
+    <nd ref='332253311' />
+    <nd ref='3230276002' />
+    <nd ref='3230277086' />
+    <nd ref='308473182' />
+    <nd ref='3230277492' />
+    <nd ref='3230277763' />
+    <nd ref='1182950317' />
+    <nd ref='332251828' />
+    <nd ref='3391012766' />
+    <nd ref='3230280697' />
+    <nd ref='308473190' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='3' />
+    <tag k='name' v='新填地街 Reclamation Street' />
+    <tag k='name:en' v='Reclamation Street' />
+    <tag k='name:zh' v='新填地街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='102454124' timestamp='2016-09-16T16:42:09Z' uid='1870014' user='小智智' visible='true' version='2' changeset='42207028'>
+    <nd ref='1151084911' />
+    <nd ref='1151084932' />
+    <nd ref='1151084837' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='窩打老道 Waterloo Road' />
+    <tag k='name:en' v='Waterloo Road' />
+    <tag k='name:zh' v='窩打老道' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='102454134' timestamp='2016-09-16T16:42:10Z' uid='1870014' user='小智智' visible='true' version='3' changeset='42207028'>
+    <nd ref='1151084837' />
+    <nd ref='1151084923' />
+    <nd ref='1151084802' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='窩打老道 Waterloo Road' />
+    <tag k='name:en' v='Waterloo Road' />
+    <tag k='name:zh' v='窩打老道' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='102554241' timestamp='2016-08-17T07:33:16Z' uid='1870014' user='小智智' visible='true' version='5' changeset='41506146'>
+    <nd ref='1168183751' />
+    <nd ref='3230283234' />
+    <nd ref='4353541535' />
+    <nd ref='3230281995' />
+    <nd ref='308473193' />
+    <nd ref='1151084854' />
+    <nd ref='1151084823' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='西洋菜南街 Sai Yeung Choi Street South' />
+    <tag k='name:en' v='Sai Yeung Choi Street South' />
+    <tag k='name:zh' v='西洋菜南街' />
+    <tag k='oneway' v='yes' />
+    <tag k='share_taxi' v='no' />
+  </way>
+  <way id='106436298' timestamp='2016-09-16T16:41:58Z' uid='1870014' user='小智智' visible='true' version='9' changeset='42207028'>
+    <nd ref='308473424' />
+    <nd ref='3176514554' />
+    <nd ref='3176514549' />
+    <nd ref='308473423' />
+    <nd ref='3176514544' />
+    <nd ref='3176514538' />
+    <nd ref='308473422' />
+    <nd ref='3176514519' />
+    <nd ref='1167986939' />
+    <nd ref='3176514513' />
+    <nd ref='3176514508' />
+    <nd ref='308473419' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='3' />
+    <tag k='name' v='彌敦道 Nathan Road' />
+    <tag k='name:en' v='Nathan Road' />
+    <tag k='name:zh' v='彌敦道' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='150771591' timestamp='2015-03-09T14:10:30Z' uid='1870014' user='小智智' visible='true' version='8' changeset='29362107'>
+    <nd ref='1151084860' />
+    <nd ref='3176517763' />
+    <nd ref='3391012777' />
+    <nd ref='3391012776' />
+    <nd ref='308473192' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='亞皆老街 Argyle Street' />
+    <tag k='name:en' v='Argyle Street' />
+    <tag k='name:zh' v='亞皆老街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='150771643' timestamp='2016-09-10T16:38:27Z' uid='1870014' user='小智智' visible='true' version='8' changeset='42062525'>
+    <nd ref='332242579' />
+    <nd ref='412685610' />
+    <nd ref='4335274775' />
+    <nd ref='4335274774' />
+    <nd ref='1178971334' />
+    <nd ref='4335274773' />
+    <nd ref='332251254' />
+    <nd ref='3391013593' />
+    <nd ref='3391012792' />
+    <nd ref='332251374' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='上海街 Shanghai Street' />
+    <tag k='name:en' v='Shanghai Street' />
+    <tag k='name:zh' v='上海街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='150792162' timestamp='2015-03-09T14:10:35Z' uid='1870014' user='小智智' visible='true' version='4' changeset='29362107'>
+    <nd ref='1151084923' />
+    <nd ref='308473179' />
+    <nd ref='1151084864' />
+    <nd ref='3230274164' />
+    <nd ref='308473175' />
+    <nd ref='3230274366' />
+    <nd ref='991294876' />
+    <nd ref='3230276005' />
+    <nd ref='332253313' />
+    <nd ref='3230276216' />
+    <nd ref='3230277530' />
+    <nd ref='308473185' />
+    <nd ref='3230277719' />
+    <nd ref='1636685665' />
+    <nd ref='3391012768' />
+    <nd ref='3230280949' />
+    <nd ref='3230281016' />
+    <nd ref='3230281049' />
+    <nd ref='3230281088' />
+    <nd ref='3230281110' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='砵蘭街 Portland Street' />
+    <tag k='name:en' v='Portland Street' />
+    <tag k='name:zh' v='砵蘭街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='246481869' timestamp='2016-09-16T16:41:58Z' uid='1870014' user='小智智' visible='true' version='12' changeset='42207028'>
+    <nd ref='1151084860' />
+    <nd ref='1151084838' />
+    <nd ref='4355051554' />
+    <nd ref='4355065428' />
+    <nd ref='1151084867' />
+    <nd ref='4355100469' />
+    <nd ref='1168183687' />
+    <nd ref='3391012790' />
+    <nd ref='1151084798' />
+    <nd ref='1167986947' />
+    <nd ref='1151084936' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='彌敦道 Nathan Road' />
+    <tag k='name:en' v='Nathan Road' />
+    <tag k='name:zh' v='彌敦道' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='246482271' timestamp='2015-03-09T14:10:30Z' uid='1870014' user='小智智' visible='true' version='7' changeset='29362107'>
+    <nd ref='1151084823' />
+    <nd ref='3391012779' />
+    <nd ref='3176517765' />
+    <nd ref='308473424' />
+    <nd ref='1151084860' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='亞皆老街 Argyle Street' />
+    <tag k='name:en' v='Argyle Street' />
+    <tag k='name:zh' v='亞皆老街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='246483350' timestamp='2016-02-08T14:03:56Z' uid='1870014' user='小智智' visible='true' version='10' changeset='37080266'>
+    <nd ref='1167986936' />
+    <nd ref='332251500' />
+    <nd ref='3391013594' />
+    <nd ref='3230283922' />
+    <nd ref='1151084936' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='5' />
+    <tag k='name' v='旺角道 Mong Kok Road' />
+    <tag k='name:en' v='Mong Kok Road' />
+    <tag k='name:zh' v='旺角道' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='250787626' timestamp='2016-03-30T03:57:38Z' uid='1879520' user='freayd' visible='true' version='7' changeset='38157384'>
+    <nd ref='1168066107' />
+    <nd ref='4085888183' />
+    <nd ref='332251664' />
+    <nd ref='332251373' />
+    <nd ref='1182677910' />
+    <nd ref='3336155582' />
+    <nd ref='332251605' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='旺角道 Mong Kok Road' />
+    <tag k='name:en' v='Mong Kok Road' />
+    <tag k='name:zh' v='旺角道' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='250788646' timestamp='2016-02-08T14:03:56Z' uid='1870014' user='小智智' visible='true' version='7' changeset='37080266'>
+    <nd ref='332251374' />
+    <nd ref='3230283899' />
+    <nd ref='1168183627' />
+    <nd ref='3696283365' />
+    <nd ref='3230283916' />
+    <nd ref='1167986936' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='name' v='旺角道 Mong Kok Road' />
+    <tag k='name:en' v='Mong Kok Road' />
+    <tag k='name:zh' v='旺角道' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='251337837' timestamp='2016-09-16T16:42:01Z' uid='1870014' user='小智智' visible='true' version='9' changeset='42207028'>
+    <nd ref='332251375' />
+    <nd ref='3230283888' />
+    <nd ref='1168183695' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='3' />
+    <tag k='name' v='彌敦道 Nathan Road' />
+    <tag k='name:en' v='Nathan Road' />
+    <tag k='name:zh' v='彌敦道' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='263839971' timestamp='2016-09-10T16:38:27Z' uid='1870014' user='小智智' visible='true' version='10' changeset='42062525'>
+    <nd ref='308473191' />
+    <nd ref='3230280829' />
+    <nd ref='1182950321' />
+    <nd ref='1182950316' />
+    <nd ref='1182950301' />
+    <nd ref='3230277601' />
+    <nd ref='308473183' />
+    <nd ref='3230277355' />
+    <nd ref='3230276044' />
+    <nd ref='332253312' />
+    <nd ref='3230275924' />
+    <nd ref='332253631' />
+    <nd ref='3230274239' />
+    <nd ref='308473173' />
+    <nd ref='3230274023' />
+    <nd ref='1151084845' />
+    <nd ref='308473178' />
+    <nd ref='1151084837' />
+    <nd ref='308473180' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='上海街 Shanghai Street' />
+    <tag k='name:en' v='Shanghai Street' />
+    <tag k='name:zh' v='上海街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='263840206' timestamp='2016-02-08T14:03:56Z' uid='1870014' user='小智智' visible='true' version='6' changeset='37080266'>
+    <nd ref='332251605' />
+    <nd ref='3391012791' />
+    <nd ref='3230283880' />
+    <nd ref='332251374' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='旺角道 Mong Kok Road' />
+    <tag k='name:en' v='Mong Kok Road' />
+    <tag k='name:zh' v='旺角道' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='279592046' timestamp='2016-09-16T16:42:03Z' uid='1870014' user='小智智' visible='true' version='6' changeset='42207028'>
+    <nd ref='1167986941' />
+    <nd ref='1151084922' />
+    <nd ref='4353561379' />
+    <nd ref='4353485234' />
+    <nd ref='1151084879' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='彌敦道 Nathan Road' />
+    <tag k='name:en' v='Nathan Road' />
+    <tag k='name:zh' v='彌敦道' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='311890775' timestamp='2016-09-07T06:09:05Z' uid='1870014' user='小智智' visible='true' version='8' changeset='41971523'>
+    <nd ref='308473192' />
+    <nd ref='3230281110' />
+    <nd ref='1168183728' />
+    <nd ref='3391012773' />
+    <nd ref='3230281031' />
+    <nd ref='308473191' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='亞皆老街 Argyle Street' />
+    <tag k='name:en' v='Argyle Street' />
+    <tag k='name:zh' v='亞皆老街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='311890778' timestamp='2016-09-16T16:42:04Z' uid='1870014' user='小智智' visible='true' version='9' changeset='42207028'>
+    <nd ref='1168183695' />
+    <nd ref='4335709211' />
+    <nd ref='4350650805' />
+    <nd ref='3391012780' />
+    <nd ref='308473424' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='彌敦道 Nathan Road' />
+    <tag k='name:en' v='Nathan Road' />
+    <tag k='name:zh' v='彌敦道' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='311890781' timestamp='2015-08-14T04:45:39Z' uid='1870014' user='小智智' visible='true' version='5' changeset='33328580'>
+    <nd ref='308473192' />
+    <nd ref='3391012778' />
+    <nd ref='3176514560' />
+    <nd ref='1168183735' />
+    <nd ref='3230283159' />
+    <nd ref='3696283364' />
+    <nd ref='3230283866' />
+    <nd ref='3230283901' />
+    <nd ref='332251500' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='砵蘭街 Portland Street' />
+    <tag k='name:en' v='Portland Street' />
+    <tag k='name:zh' v='砵蘭街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='441107643' timestamp='2016-09-07T06:08:21Z' uid='1870014' user='小智智' visible='true' version='1' changeset='41971523'>
+    <nd ref='308473191' />
+    <nd ref='3230280976' />
+    <nd ref='3391012769' />
+    <nd ref='3230280913' />
+    <nd ref='308473190' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='亞皆老街 Argyle Street' />
+    <tag k='name:en' v='Argyle Street' />
+    <tag k='name:zh' v='亞皆老街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='441107658' timestamp='2016-09-10T16:38:28Z' uid='1870014' user='小智智' visible='true' version='2' changeset='42062525'>
+    <nd ref='332251374' />
+    <nd ref='3230283560' />
+    <nd ref='3230283001' />
+    <nd ref='1168183745' />
+    <nd ref='3391012775' />
+    <nd ref='3230281280' />
+    <nd ref='308473191' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='上海街 Shanghai Street' />
+    <tag k='name:en' v='Shanghai Street' />
+    <tag k='name:zh' v='上海街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <relation id='1455283' timestamp='2011-03-02T18:53:52Z' uid='169827' user='hlaw' visible='true' version='1' changeset='7437607'>
+    <member type='way' ref='102454124' role='from' />
+    <member type='node' ref='1151084837' role='via' />
+    <member type='way' ref='102454134' role='to' />
+    <tag k='restriction' v='only_straight_on' />
+    <tag k='type' v='restriction' />
+  </relation>
+</osm>
